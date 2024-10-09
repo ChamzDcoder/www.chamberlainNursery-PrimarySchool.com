@@ -1,0 +1,33 @@
+#hero {
+    background-image: url('../images/school.jpg');
+    background-color: #2E8B57;
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+}
+
+#hero h1 {
+    font-size: 3rem;
+    margin-top: 150px;
+}
+
+#hero p {
+    font-size: 1.5rem;
+}
+
+#hero .btn {
+    margin-top: 20px;
+}
+
+#about img {
+    border-radius: 10px;
+}
+
+footer p {
+    margin: 0;
+}
+
+#contact .btn{
+    background-color: #2E8B57;
+    color: white;
+}
